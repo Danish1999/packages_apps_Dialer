@@ -32,7 +32,6 @@ LOCAL_AAPT_FLAGS := \
 
 LOCAL_JAVA_LIBRARIES := telephony-common \
                         ims-common \
-                        org.apache.http.legacy
 
 LOCAL_STATIC_JAVA_LIBRARIES := \
     android-common \
