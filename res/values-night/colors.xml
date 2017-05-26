@@ -50,17 +50,12 @@
     <!-- Color of the 1dp divider that separates favorites -->
     <color name="favorite_contacts_separator_color">@*android:color/cardinal_light_indigo</color>
 
-    <color name="searchbox_icon_tint">@*android:color/cardinal_accent_neon_green</color>
-
     <!-- Undo dialogue color -->
     <color name="undo_dialogue_text_color">#b3ffffff</color>
 
     <color name="empty_list_text_color">#b3ffffff</color>
 
     <color name="remove_text_color">#b3ffffff</color>
-
-    <!-- Color for icons in the actionbar -->
-    <color name="actionbar_icon_color">@*android:color/cardinal_accent_neon_green</color>
 
     <color name="dialer_dialpad_touch_tint">#3327e4a0</color>
 
